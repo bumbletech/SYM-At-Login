@@ -1,0 +1,16 @@
+<plist version="1.0">
+<dict>
+	<key>OnDemand</key>
+	<false/>
+	<key>LaunchOnlyOnce</key>
+	<true/>
+	<key>Program</key>
+	<array>
+		<string>/Library/Scripts/Basic_eula.sh</string>
+	</array>
+	<key>LimitLoadToSessionType</key>
+	<string>LoginWindow</string>
+	<key>Label</key>
+	<string>com.swiftDialog.example-login-window</string>
+</dict>
+</plist>
